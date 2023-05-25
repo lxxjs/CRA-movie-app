@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CRA-movie-app/movie-app/static/js/main.fa1e874f.js",
-    "index.html": "/CRA-movie-app/movie-app/index.html",
-    "main.fa1e874f.js.map": "/CRA-movie-app/movie-app/static/js/main.fa1e874f.js.map"
+    "main.js": "/CRA-movie-app/static/js/main.276a92ad.js",
+    "index.html": "/CRA-movie-app/index.html",
+    "main.276a92ad.js.map": "/CRA-movie-app/static/js/main.276a92ad.js.map"
   },
   "entrypoints": [
-    "static/js/main.fa1e874f.js"
+    "static/js/main.276a92ad.js"
   ]
 }
